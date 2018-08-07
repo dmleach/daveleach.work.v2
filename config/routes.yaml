@@ -1,0 +1,3 @@
+app_hello_world:
+    path: /home/hello
+    controller: App\Controller\HomeController::helloWorld
