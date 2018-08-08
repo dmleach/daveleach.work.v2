@@ -26,5 +26,10 @@
         "symfony/maker-bundle": "^1.5",
         "doctrine/doctrine-fixtures-bundle": "^3.0",
         "symfony/profiler-pack": "^1.0"
+    },
+    "autoload": {
+        "files": [
+            "app/AppKernel.php"
+        ]
     }
 }
